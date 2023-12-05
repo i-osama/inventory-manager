@@ -16,7 +16,7 @@ This application design was created using Tkinter
   <br>
   <b># Signup interface</b>
   <br>
-  <img src="https://github.com/i-osama/inventory-manager/assets/117646017/f91f657e-768d-478a-9ea1-53658a6de447" width="870" height="600"/>
+  <img src="https://github.com/i-osama/inventory-manager/assets/117646017/f91f657e-768d-478a-9ea1-53658a6de447" width="470" height="800"/>
   <br>
 
 <p align= "center">
